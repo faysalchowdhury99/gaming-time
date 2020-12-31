@@ -1,0 +1,294 @@
+@media screen and (max-width:1199px) {
+	.cover-video-box {
+		position: absolute;
+		top: 5rem;
+		left: 17.7rem;
+		z-index: 99999;
+		width: 43rem;
+	}
+
+	.cover-video video {
+		width: 100%;
+		height: 270px;
+	}
+}
+
+@media screen and (max-width:991px) {
+	.cover-video-box {
+		position: absolute;
+		top: 4.5rem;
+		left: 15.7rem;
+		z-index: 99999;
+		width: 39rem;
+	}
+
+	.banner-pc{
+		margin-top: 5rem;
+		opacity: 1 !important;
+	}
+
+	.cover-video video {
+		width: 100%;
+		height: 245px;
+	}
+
+	.header-text{
+		text-align: center;
+		margin: auto;
+	}
+}
+
+@media screen and (max-width:767px) {
+	#header-section {
+		text-align: center;
+	}
+
+	.cover-video-box {
+		position: absolute;
+		top: 3.5rem;
+		left: 12.2rem;
+		z-index: 99999;
+		width: 28rem;
+	}
+
+	.cover-video video {
+		width: 100%;
+		height: 175px;
+	}
+}
+
+@media screen and (max-width:575px) {
+	.para-size,.heading-title {
+		font-size: 1.6rem;
+	}
+	
+	.info-content{
+		height: auto;
+	}
+
+	.button{
+		font-size: 1.6rem;
+	}
+
+	.upgrade-box h3 {
+		font-size: 2.5rem;
+	}
+
+	.footer-sub-heading {
+		font-size: 1.8rem;
+	}
+
+	.footer-link p a,
+	.footer-contact p {
+		font-size: 1.6rem;
+	}
+
+	.nav-btn {
+		font-size: 1.5rem;
+	}
+
+	.footer-copyright {
+		font-size: 1.6rem;
+	}
+
+	.header-content p{
+		font-size: 1.8rem;
+	}
+
+	.header-content h1 {
+		font-size: 4rem;
+	}
+
+	.space {
+		padding: 3rem 0;
+	}
+
+	.heading {
+		font-size: 3.5rem;
+	}
+
+	.laptop-box {
+		position: static;
+		transform: translateY(0);
+		-webkit-transform: translateY(0);
+		-moz-transform: translateY(0);
+		-ms-transform: translateY(0);
+		-o-transform: translateY(0);
+	}
+
+	.play-icon {
+		top: 45%;
+	}
+
+	.play-icon i {
+		width: 4rem;
+		height: 4rem;
+		line-height: 4rem;
+		font-size: 1.5rem;
+	}
+
+	.cover-video-box {
+		position: absolute;
+		top: 13%;
+		left: 22.5%;
+		z-index: 99999;
+		width: 55%;
+	}
+
+	.cover-video video {
+		width: 100%;
+		height: auto;
+	}
+
+	.laptop-main-box {
+		position: static;
+		transform: translateY(20px);
+		-webkit-transform: translateY(20px);
+		-moz-transform: translateY(20px);
+		-ms-transform: translateY(20px);
+		-o-transform: translateY(20px);
+	}
+
+	.inner-page .container-fluid{
+		padding: 0 2rem;
+	}
+
+	.ans-heading{
+		font-size: 2.5rem;
+	}
+
+	.ans-sub-heading{
+		font-size: 2rem;
+	}
+	
+	
+}
+
+@media screen and (max-width:350px) {
+	.navbar-brand {
+		width: 20rem !important;
+	}
+}
+
+
+/* Responsive Header Content */
+@media screen and (min-width:0px) {
+	.header-content {
+		width: 90%;
+	}
+}
+
+@media screen and (min-width:576px) {
+	.header-content {
+		width: 540px;
+	}
+}
+
+@media screen and (min-width:768px) {
+	.header-content {
+		width: 720px;
+	}
+}
+
+@media screen and (min-width:992px) {
+	.header-content {
+		width: 960px;
+	}
+}
+
+@media screen and (min-width:1200px) {
+	.header-content {
+		width: 1140px;
+	}
+}
+
+@media screen and (min-width:1500px){
+	.navbar-brand img{
+		width: 35rem !important;
+	}
+
+	.banner-pc{
+		width: 100% !important;
+		margin-right: -10rem;
+	}
+
+	.header-content p {
+		font-size: 2.5rem;
+	}
+
+	.info-content{
+		height: 100%;
+	}
+
+
+	.info-box h3 {
+		font-size: 3rem;
+	}
+
+	.heading {
+		font-size: 5.5rem;
+	}
+
+	.para-size,.heading-title {
+		font-size: 2.2rem;
+	}
+
+	.button {
+		font-size: 2.2rem;
+	}
+	
+	.upgrade-box h3 {
+		font-family: poligon-bold;
+		font-size: 4rem;
+		color: #ffffff;
+	}
+
+	.footer-social-icon .icon {
+		color: #ffff;
+		padding: 8px;
+		border-radius: 50%;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		-ms-border-radius: 50%;
+		-o-border-radius: 50%;
+		background: transparent;
+		border: 1px solid #FFFFFF;
+		font-size: 18px;
+		margin-right: 1rem;
+	}
+
+	.footer-social-icon .fa-facebook{
+		padding: 8px 11.5px;
+	}
+
+	.footer-social-icon a img{
+		padding: 8px 6px !important;
+		position: relative;
+		margin-top: -4px;
+		width: 37px;
+	}
+
+	.footer-sub-heading {
+		font-size: 2.5rem;
+	}
+	
+	.footer-link p a,
+	.footer-contact p {
+		font-size: 2.2rem;
+	}
+	.footer-copyright {
+		font-size: 2.2rem;
+	}
+	#myBtn {
+		font-size: 1.8rem;
+		padding: 1.5rem 2rem;
+	}
+
+	.ans-heading{
+		font-size: 4rem;
+	}
+	
+	.ans-sub-heading{
+		font-size: 3rem;
+	}
+}
